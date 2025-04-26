@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508583010425",
+    "project_id": "com-mdhossam32547-gingoman",
+    "storage_bucket": "com-mdhossam32547-gingoman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508583010425:android:6a7accb581ff48649df4a8",
+        "android_client_info": {
+          "package_name": "com.mdhossam32547.gingo_man"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPsK-Esuml1Fe1RV09evETjtejU7auC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
