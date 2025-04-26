@@ -6,8 +6,8 @@ import 'package:gingo_man/firebase_options.dart';
 import 'package:gingo_man/home_screen.dart';
 import 'package:gingo_man/splash_screen.dart';
 
-void main() async{
-   WidgetsFlutterBinding.ensureInitialized();
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
 
   Platform.isAndroid
       ? await Firebase.initializeApp(
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Development',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
